@@ -112,7 +112,7 @@ exit;
 }
 }
 ?>
-<br><br><br><br><br>
+<br><br><br>
 <img src="http://hitwebcounter.com/counter/counter.php?page=5664784&style=0005&nbdigits=8&type=page&initCount=0" title="" Alt=""   border="0" >
 </a><br/>
 </body>
